@@ -1,0 +1,4 @@
+<resources>
+    <!-- Change this to rename the app. -->
+    <string name="app_name">Tasks</string>
+</resources>
